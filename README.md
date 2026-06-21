@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Joshua Obisi
+## About Me
+Aspiring Data Analyst passionate about turning raw data into meaningful insights
+--Currently building my data analytics portfolio
+--Learning and growing my skills everyday
+--I love finding patterns and stories hidden in data
+--Reach me at: joshuaobisi16@gmail.com
 
-<!--
-**joshuaobisi/joshuaobisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools & Skills 
+--**Microsoft Excel** _ data cleaning, pivot tables, charts
+--**Microsoft SQL** _ quering and managing databases
+--**Microsoft Power BI** _ building dashboards and reports
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect 
+- LinkedIn: www.linkedin.com/in/joshua-obisi-678690408
