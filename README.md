@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Joshua Obisi
 ## About Me
-Aspiring Data Analyst passionate about turning raw data into meaningful insights
--Currently building my data analytics portfolio
--Learning and growing my skills everyday
+I’m a Junior Data Analyst passionate about turning raw data into clear, meaningful insights that support better decision-making.
 -I love finding patterns and stories hidden in data
 -Reach me at: joshuaobisi16@gmail.com
 
